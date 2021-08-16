@@ -1,2 +1,2 @@
-# urionlinejudge
-URI Online Judge 
+# URI Online Judge
+Resoluções de exercícios de lógica
